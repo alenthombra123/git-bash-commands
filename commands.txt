@@ -22,3 +22,8 @@ git commit -m "my first commit "
 
 git clone (reository url from git hub)
 
+  creating new branch in git hub
+
+  git branch <branchname>
+
+  git switch <branchname>
